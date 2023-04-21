@@ -245,7 +245,9 @@ iframe{
     }
    #imagen-1{
     height: 20em;
-    width: 20em;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
    }
    .home-art > figure > img{
     display: flex;
